@@ -17,7 +17,7 @@ Yoga is my happy place. My friend snapped this picture at just the right time. I
 
 **Career History and Aspirations:**
  I recently left my role as a market research analyst in advertising for a senior business intelligence analyst role in healthcare. 
-Short-term, I want shift my reporting style from static written summaries to dynamic dashboards informing stakeholders on public health trends and predictions. \
+Short-term, I'm pivoting my reporting style from static written summaries to dynamic dashboards informing stakeholders on public health trends and predictions. \
 ***Funfact:** My first day of class was also my first day of at Spectrum Health*
 
 **Why Stats 418/518:**
