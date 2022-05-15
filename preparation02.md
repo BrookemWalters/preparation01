@@ -13,7 +13,7 @@ Yoga is my happy place. My friend snapped this picture at just the right time. I
 
 **Why DS&A:** The skills and concepts taught in this program are widely applicable. While I'm uncertian if I want pursue the offical job title of "Data Scientist", I know I love pulling insights from data and finding creative ways to translate these discoveries into visualizations.  
 
-[Andrew Yang](https://en.wikipedia.org/wiki/Andrew_Yang) inspired me continue my education with his book on the automation of work, [“The War on normal people”](https://www.goodreads.com/book/show/36204293-the-war-on-normal-people?ac=1&from_search=true&qid=3CxGZZVjQQ&rank=1).  More and more my responsibilities as a marketing analyst are becoming automated. Last summer I had an epiphany, *I could be the one creating automated workflows.*  
+[Andrew Yang](https://en.wikipedia.org/wiki/Andrew_Yang) inspired me continue my education with his book on the automation of work, [“The War on normal people.”](https://www.goodreads.com/book/show/36204293-the-war-on-normal-people?ac=1&from_search=true&qid=3CxGZZVjQQ&rank=1) More and more my responsibilities as a marketing analyst are becoming automated. Last summer I had an epiphany, *I could be the one creating automated workflows.*  
 
 **Career History and Aspirations:**
 On May 6th I left my role as a market research analyst in advertising for a senior business intelligence analyst role in healthcare. 
