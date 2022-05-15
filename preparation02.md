@@ -16,8 +16,8 @@ Yoga is my happy place. My friend snapped this picture at just the right time. I
 [Andrew Yang](https://en.wikipedia.org/wiki/Andrew_Yang) inspired me continue my education with his book on the automation of work, [“The War on normal people.”](https://www.goodreads.com/book/show/36204293-the-war-on-normal-people?ac=1&from_search=true&qid=3CxGZZVjQQ&rank=1) More and more my responsibilities as a marketing analyst are becoming automated. Last summer I had an epiphany, *I could be the one creating automated workflows.*  
 
 **Career History and Aspirations:**
-On May 6th I left my role as a market research analyst in advertising for a senior business intelligence analyst role in healthcare. 
-Short-term I want shift my reporting style from static written summaries to dynamic dashboards informing stakeholders on public health trends and predictions. \
+ I recently left my role as a market research analyst in advertising for a senior business intelligence analyst role in healthcare. 
+Short-term, I want shift my reporting style from static written summaries to dynamic dashboards informing stakeholders on public health trends and predictions. \
 ***Funfact:** My first day of class was also my first day of at Spectrum Health*
 
 **Why Stats 418/518:**
@@ -26,6 +26,6 @@ I've grown to love working with data, but I'm at a point where my deficiencies i
  
 **Data Science Role Models:** [Build a Career in Data Science Podcast with Jacqueline Nolis and Emily Robinson
 ](https://anchor.fm/datascicareer) \
-In this podcast Nolis and Robinson share their path to coming a data scientists and the types of projects they work on. They've inspired me to keep going even when I'm dismissed and not taken seriously by the data gatekeepers. 
+In this podcast Nolis and Robinson share their path to coming  data scientists and the types of projects they work on. They've inspired me to keep going even when I'm dismissed and not taken seriously by the data gatekeepers. 
 
 **About me:** I'm willing to work hard to achieve my goals. Rarely am I the first person to understand new concepts and I'm slow at completing the related tasks - but I'm committed to mastering my craft and bruising my ego along the way. 
