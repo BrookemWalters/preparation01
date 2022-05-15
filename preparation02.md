@@ -28,4 +28,4 @@ I've grown to love working with data, but I'm at a point where my deficiencies i
 ](https://anchor.fm/datascicareer) \
 In this podcast Nolis and Robinson share their path to coming  data scientists and the types of projects they work on. They've inspired me to keep going even when I'm dismissed and not taken seriously by the data gatekeepers. 
 
-**About me:** I'm willing to work hard to achieve my goals. Rarely am I the first person to understand new concepts and I'm slow at completing the related tasks - but I'm committed to mastering my craft and bruising my ego along the way. 
+**About me:** I'm willing to work hard to achieve my goals. Rarely am I the first person to understand new concepts and I'm slow at completing the related tasks - however, much like my yoga practice, I'm committed to mastering my craft and bruising my ego along the way.
