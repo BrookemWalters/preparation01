@@ -21,7 +21,7 @@ Short-term, I'm pivoting my reporting style from static written summaries to dyn
 ***Funfact:** My first day of this class was also my first day of at Spectrum Health*
 
 **Why Stats 418/518:**
-I’m here to gain rare and valuable skills. It would be foolish of me to not take advantage of the educational benefits I earned as veteran and through my employer.
+I’m here to gain rare and valuable skills. It would be foolish of me to not take advantage of the educational benefits I earned as a combat veteran.
 I've grown to love working with data, but I'm at a point where my deficiencies in statistical theoretical knowledge and lack of technical abilities are barriers to my desired career path.
  
 **Data Science Role Models:** [Build a Career in Data Science Podcast with Jacqueline Nolis and Emily Robinson
